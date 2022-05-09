@@ -2,10 +2,10 @@ The code.ipynb file has all the code that we used to create a test out model.<br
 <br>  
 The expected file structure is <br>
 folder: <br>
-        code.ipynb <br>
-        GSVImages: (image folder)<br>
-                * .png <br>
-        Panoid_heat_label.csv (csv of panoid and heat labels) <br>
+-------code.ipynb <br>
+-------GSVImages: (image folder)<br>
+----------------* .png <br>
+-------Panoid_heat_label.csv (csv of panoid and heat labels) <br>
 
 <br>
 <br>
